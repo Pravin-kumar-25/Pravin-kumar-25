@@ -1,4 +1,4 @@
-![BANNER](https://user-images.githubusercontent.com/87566045/181830695-3ac95d66-0ef2-4fb6-b5db-1a622a28d4c6.gif)
+<img align="center" alt="Coding" width="100%" height="400px" object-fit="cover" src="https://user-images.githubusercontent.com/87566045/182202722-4f61584f-d6f4-42f7-90b2-3c88b51b43ae.gif" />
 <h1 align="center">Hi 👋, I'm Pravin kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/87566045/181830946-d6f678c9-1498-44d0-9f74-86d071eac89e.gif" />
